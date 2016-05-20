@@ -32,8 +32,9 @@
     "gulp": "gulpjs/gulp#4.0",
     "gulp-babel": "*",
     "gulp-cli": "1.2.1",
-    "gulp-jsbeautifier": "*",
+    "gulp-jsbeautifier": "^2.0.3",
     "gulp-mocha": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
     "gulp-watch": "*",
     "mocha": "*"
   }
